@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Style for the label of the checkboxes */
+.checkbox-label {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* Style for the checkboxes themselves */
+  .checkbox {
+    display: flex;
+    width: 180px;
+    padding: 11px 162px 11px 0px;
+    align-items: center;
+    flex-shrink: 0;
+  }
